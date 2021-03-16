@@ -1,6 +1,4 @@
-/**** Arduino Speech/voice Controlled robot ***/
-
-/* Arduino Rolling robot
+/**** Arduino Speech/voice Controlled robot ***
  *  by Ashraf Minhaj
  *  mail me at ashraf_minhaj@yahoo.com
  *  tutorial- ashrafminhajfb.blogspot.com
